@@ -1,4 +1,4 @@
-Hi 👋 I'm Felix Ramos!
+👋 I'm Felix Ramos!
 ==============================
 Software Developer
 -----------------
